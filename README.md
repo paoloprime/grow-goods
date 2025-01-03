@@ -1,5 +1,4 @@
 # grow-goods
 
+Front end
 A new way of funding public goods.
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/paoloprime/grow-goods)
